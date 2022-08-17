@@ -1,4 +1,11 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Mobile Most Used Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,Python,C++,TypeScript,JavaScript,CSS,HTML,R,Pug&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Web Most Used Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C#,C,Python,Swift,C++,R&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Global Most Used Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=15&hide=cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
