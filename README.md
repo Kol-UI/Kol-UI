@@ -1,11 +1,15 @@
-Mobile Most Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,Python,C++,TypeScript,JavaScript,CSS,HTML,R,Pug&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# My Languages :
+## 📊 Global Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Web Most Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C#,C,Python,Swift,C++,R&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📱 Mobile Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,CSS,HTML,R,Pug&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Global Most Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=15&hide=cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Web Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,Swift,c%2B%2B,r,swift&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🖥️ Other Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,CSS,HTML,Pug,C%23,swift&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
