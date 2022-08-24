@@ -35,7 +35,7 @@
 - 📖 Computer Science & Information Systems
 <br>💻 Master of Science
 <br>📆 2016 - 2021
-<br>🎖 
+<br>🎖 2020 - Formation: Adobe Photoshop / Illustrator / Indesign
 <br>🎖 2017 - Specialisation: Supinfo Mobile & Responsive Web Device
 <br>🎖 2017 - Certification: Google Digital Active
 <br>📍 SUPINFO Caen -  🇫🇷 Normandy, France
