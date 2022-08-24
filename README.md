@@ -32,12 +32,13 @@
 
 # 📝 Resume
 ## 🎓 Education
-- 📖 Computer Science & Information Systems
-<br>💻 Master of Science
-<br>📆 2016 - 2021
+- 📖 **Computer Science & Information Systems**
+<br>💻 ***Master of Science***
+<br>📆 *2016 - 2021*
 <br>🎖 2020 - Formation: Adobe Photoshop / Illustrator / Indesign
 <br>🎖 2017 - Specialisation: Supinfo Mobile & Responsive Web Device
 <br>🎖 2017 - Certification: Google Digital Active
+<br>📜 69 LinkedIn Learning Certifications [Cybersecurity (5) GDPR (5) DataScience (16) BigData (7) Blockchain (9) Virtualization (7) IT Infrastructure (3) Machine Learning / AI (3) Management (14)]
 <br>📍 SUPINFO Caen -  🇫🇷 Normandy, France
 
 ## 🚀 Experience
