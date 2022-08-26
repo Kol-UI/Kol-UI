@@ -4,7 +4,7 @@
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,CSS,HTML,R,Pug&custom_title=📱%20Mobile%20Most%20Used%20Languages&title_color=3CB371&layout=compact&border_color=A9A9A9&theme=github_dark" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,sass,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,CSS,HTML,R,Pug&custom_title=📱%20Mobile%20Most%20Used%20Languages&title_color=3CB371&layout=compact&border_color=A9A9A9&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,CSS,HTML,Pug,C%23,swift&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&theme=github_dark" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,CSS,sass,HTML,Pug,C%23,swift&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
