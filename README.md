@@ -1,4 +1,5 @@
 # 📟 Stats
+
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile&layout=compact&custom_title=📊%20Global%20Most%20Used%20Languages&title_color=FFD700&border_color=A9A9A9&theme=github_dark" />
 </div>
@@ -28,6 +29,11 @@
  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kol-UI&theme=github_dark" />
  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kol-UI&theme=github_dark" />
 </div>
+
+<div align="center" style="display: flex; flex-direction: row;">
+  <img class="img" src="https://github-profile-trophy.vercel.app/?username=Kol-UI&theme=discord&no-bg=false&no-frame=true&column=4&row=1" />
+</div>
+
 
 
 # 📝 Resume
