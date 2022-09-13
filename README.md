@@ -1,11 +1,9 @@
-# 📟 Stats
-
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile&layout=compact&custom_title=📊%20Global%20Most%20Used%20Languages&title_color=FFD700&border_color=A9A9A9&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,sass,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,CSS,HTML,R,Pug&custom_title=📱%20Mobile%20Most%20Used%20Languages&title_color=3CB371&layout=compact&border_color=A9A9A9&theme=github_dark" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,sass,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,LiveScript,CSS,HTML,R,Pug&custom_title=📱%20Mobile%20Most%20Used%20Languages&title_color=3CB371&layout=compact&border_color=A9A9A9&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
@@ -13,7 +11,7 @@
 </div>
 
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,CSS,sass,HTML,Pug,C%23,swift&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&theme=github_dark" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,LiveScript,CSS,sass,HTML,Pug,C%23,swift&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
@@ -35,17 +33,18 @@
 </div>
 
 
-
-# 📝 Resume
-## 🎓 Education
-- 📖 **Computer Science & Information Systems**
-<br>💻 ***Master of Science***
-<br>📆 *2016 - 2021*
+<details>
+<summary><h2> 📝 Resume</h2></summary>
+<h2> 🎓 Education</h2>
+<br>📖 <em><b>Computer Science & Information Systems</em></b>
+<br>💻 <b>Master of Science</b>
+<br>📆 <em>2016 - 2021</em>
 <br>🎖 2020 - Formation: Adobe Photoshop / Illustrator / Indesign
 <br>🎖 2017 - Specialisation: Supinfo Mobile & Responsive Web Device
 <br>🎖 2017 - Certification: Google Digital Active
 <br>📜 69 LinkedIn Learning Certifications [Cybersecurity (5) GDPR (5) DataScience (16) BigData (7) Blockchain (9) Virtualization (7) IT Infrastructure (3) Machine Learning / AI (3) Management (14)]
 <br>📍 SUPINFO Caen -  🇫🇷 Normandy, France
+
 
 ## 🚀 Experience
 - 👨‍💻 Cross Mobile Developer
@@ -110,6 +109,7 @@
   <img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white"/>
 </div><br>
 
+</details>
 
 <!--
 
