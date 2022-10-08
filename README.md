@@ -4,7 +4,7 @@
 
 <div align="center" style="display: flex; flex-direction: row;">
     <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,scss,sass,Pug,Haml,Swift,c%2B%2B,r,swift&custom_title=🌐%20Web%20Most%20Used%20Languages&title_color=1E90FF&layout=compact&border_color=A9A9A9&theme=github_dark" />
-    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,JavaScript,LiveScript,TypeScript,html,css,Swift,c%2B%2B,r,swift&custom_title=🔧%20Most%20Used%20Web%20Preprocessors&title_color=1E90FF&layout=compact&border_color=A9A9A9&theme=github_dark" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,JavaScript,LiveScript,TypeScript,html,css,Swift,c%2B%2B,php,r,swift&custom_title=🔧%20Most%20Used%20Web%20Preprocessors&title_color=1E90FF&layout=compact&border_color=A9A9A9&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
