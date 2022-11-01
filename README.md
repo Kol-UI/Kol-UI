@@ -3,13 +3,13 @@
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
-    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,scss,sass,Pug,Haml,Swift,c%2B%2B,r,swift,dart&custom_title=🌐%20Web%20Most%20Used%20Languages&title_color=1E90FF&layout=compact&border_color=A9A9A9&theme=github_dark" />
-    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,JavaScript,LiveScript,TypeScript,html,css,Swift,c%2B%2B,php,r,swift,dart&custom_title=🔧%20Most%20Used%20Web%20Preprocessors&title_color=1E90FF&layout=compact&border_color=A9A9A9&theme=github_dark" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,scss,sass,Pug,Haml,Swift,c%2B%2B,r,swift,dart,Kotlin&custom_title=🌐%20Web%20Most%20Used%20Languages&title_color=1E90FF&layout=compact&border_color=A9A9A9&theme=github_dark" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,JavaScript,LiveScript,TypeScript,html,css,Swift,c%2B%2B,php,r,swift,dart,Kotlin&custom_title=🔧%20Most%20Used%20Web%20Preprocessors&title_color=1E90FF&layout=compact&border_color=A9A9A9&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,sass,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,LiveScript,CSS,HTML,R,Pug&custom_title=📱%20Mobile%20Most%20Used%20Languages&title_color=3CB371&layout=compact&border_color=A9A9A9&theme=github_dark" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,LiveScript,CSS,sass,HTML,Pug,C%23,swift,dart&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&theme=github_dark" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,LiveScript,CSS,sass,HTML,Pug,C%23,swift,dart,Kotlin&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
