@@ -12,24 +12,6 @@
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,LiveScript,CSS,sass,HTML,Pug,C%23,swift,dart,Kotlin&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&theme=github_dark" />
 </div>
 
-<div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Kol-UI&fire=FFD700&border=3D424A&sideLabels=ED9135&theme=dark" />
- <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kol-UI&theme=github_dark&utcOffset=8" />
-</div>
-
-<div align="center" style="display: flex; flex-direction: row;"> 
- <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kol-UI&theme=github_dark" />
-</div>
-
-<div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kol-UI&theme=github_dark" />
- <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kol-UI&theme=github_dark" />
-</div>
-
-<div align="center" style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github-profile-trophy.vercel.app/?username=Kol-UI&theme=discord&no-bg=false&no-frame=true&column=4&row=1" />
-</div>
-
 
 <details>
 <summary><h2> 📝 Resume</h2></summary>
@@ -110,6 +92,30 @@
 </details>
 
 <!--
+
+
+
+
+<div align="center" style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Kol-UI&fire=FFD700&border=3D424A&sideLabels=ED9135&theme=dark" />
+ <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kol-UI&theme=github_dark&utcOffset=8" />
+</div>
+
+<div align="center" style="display: flex; flex-direction: row;"> 
+ <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kol-UI&theme=github_dark" />
+</div>
+
+<div align="center" style="display: flex; flex-direction: row;">
+ <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kol-UI&theme=github_dark" />
+ <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kol-UI&theme=github_dark" />
+</div>
+
+<div align="center" style="display: flex; flex-direction: row;">
+  <img class="img" src="https://github-profile-trophy.vercel.app/?username=Kol-UI&theme=discord&no-bg=false&no-frame=true&column=4&row=1" />
+</div>
+
+
+
 
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,CSS,HTML,R,Pug&custom_title=📱%20Mobile%20Most%20Used%20Languages&title_color=3CB371&layout=compact&border_color=A9A9A9&theme=github_dark" />
