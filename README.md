@@ -23,8 +23,7 @@
 <details>
 <summary><h2> 📝 Resume</h2></summary>
 <h2> 🎓 Education</h2>
-<br>📖 <em><b>Computer Science & Information Systems</em></b>
-<br>💻 <b>Master of Science</b>
+<br>💻 <em><b>Master of Computer Science & Information Systems Management</em></b>
 <br>📆 <em>2016 - 2021</em>
 <br>🎖 2020 - Formation: Adobe Photoshop / Illustrator / Indesign
 <br>🎖 2017 - Specialisation: Supinfo Mobile & Responsive Web Device
