@@ -114,6 +114,8 @@
    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,sass,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,LiveScript,CSS,HTML,R,Pug,Stylus,CoffeeScript&custom_title=📱%20Platform%20Development&title_color=3CB371&layout=compact&border_color=A9A9A9&theme=github_dark" />
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,LiveScript,CSS,sass,HTML,Pug,C%23,swift,dart,Kotlin,Stylus,CoffeeScript&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&theme=github_dark" />
 </div>
+  
+![](https://komarev.com/ghpvc/?username=Kol-UI&label=+)
 </details>
 
 
