@@ -4,12 +4,13 @@
 
 
 
-
+<!--
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=Kol-UI&show_icons=true&theme=radical" />
   <img class="img" src="https://leetcard.jacoblin.cool/Kol-UI?ext=activity" />
   <img class="img" src="https://www.codewars.com/users/Kol-UI/badges/large" />
 </div>
+-->
 
 
 
