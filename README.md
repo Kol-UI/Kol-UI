@@ -6,9 +6,10 @@
 
 <!--
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
+  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Kol-UI&theme=dark" />
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=Kol-UI&show_icons=true&theme=radical" />
   <img class="img" src="https://leetcard.jacoblin.cool/Kol-UI?ext=activity" />
-  <img class="img" src="https://www.codewars.com/users/Kol-UI/badges/large" />
+  <img src="https://www.codewars.com/users/Kol-UI/badges/large" />
 </div>
 -->
 
@@ -21,21 +22,20 @@
 |🌐|[Little Web Projects](https://github.com/Kol-UI/Little-Web-Projects)| All Web Projects (Including Courses & Preprocessors)|**🔵 Web Development**|
 |👨‍💻|[POC Xamarin Views](https://github.com/Kol-UI/POC-Xamarin-Views)| Proof-Of-Concept Views Using Xamarin Forms|**⚫ Cross Platform Mobile Development**|
 |📝|[C# Cheat Sheet](https://github.com/Kol-UI/CSharp-CheatSheet)| For Keeping my C# Knowledges in check|**⚪ Programming**|
-|🥇|[LeetCode Solutions](https://github.com/Kol-UI/Competitive-Programming/tree/main/CompetitiveProgramming/LeetCode)|My LeetCode Solutions (Competitive Programming)|**🔴 Algorithms**|
-|🎯|[CodeWars Solutions](https://github.com/Kol-UI/Competitive-Programming/tree/main/CompetitiveProgramming/CodeWars)|My CodeWars Solutions (Competitive Programming)|**🔴 Algorithms**|
+|🥇|[LeetCode Solutions](https://github.com/Kol-UI/Competitive-Programming/tree/main/LeetCode)|My LeetCode Solutions (Competitive Programming)|**🔴 Algorithms**|
+|🎯|[CodeWars Solutions](https://github.com/Kol-UI/Competitive-Programming/tree/main/CodeWars)|My CodeWars Solutions (Competitive Programming)|**🔴 Algorithms**|
+|🤖|[Archive.java](https://github.com/Kol-UI/Archive.java)| Java CodeTemplates |**⚪ Programming**|
 |📱|[Archive.dart](https://github.com/Kol-UI/ArchiveDartFlutter)| Learning Flutter/Dart for Cross Platform Mobile App|**🟢 Mobile Development**|
 |🟣|[Archive.kt](https://github.com/Kol-UI/ArchiveKotlin)| Learning Kotlin for Cross Platform Mobile App|**🟢 Mobile Development**|
 |🍏|[Archive.swift](https://github.com/Kol-UI/ArchiveSwiftUI)| SwiftUI Courses|**🟡 Apple Development**|
 |🦅|[Swift Projects](https://github.com/Kol-UI/SwiftCommandProject)| Swift Courses (in Console)|**🟡 Apple Development**|
 |🏷️|[Archive.xaml](https://github.com/Kol-UI/ArchiveLabsXAML)| WPF - UWP - Xamarin Labs|**🟠 Windows Development**|
-|🛞|[Archive.cs](https://github.com/Kol-UI/CSharpArchive)| C# .NET Courses & Projects|**🟠 Windows Development**|
+|🦾|[Archive.cs](https://github.com/Kol-UI/CSharpArchive)| C# .NET Courses & Projects|**🟠 Windows Development**|
 |⚙️|[Archive.c](https://github.com/Kol-UI/ArchiveC)| C Courses & Projects|**⚪ Programming**|
 |🔧|[Archive.py](https://github.com/Kol-UI/ArchivePython)| Python Courses & School Projects|**⚪ Programming**|
 |📊|[Archive.r](https://github.com/Kol-UI/ArchiveR)| R School Projects & Data Courses|**🟣 Data Science**|
 |⌨️|[Archive.ts](https://github.com/Kol-UI/ArchiveTS)| TypeScript Courses - For Web Programming|**🔵 Web Development**|
 |📁|[Archive.php](https://github.com/Kol-UI/ArchivePHP)| PHP Courses & School Projects|**🔵 Web Development**|
-
-
 
 
 
@@ -47,8 +47,6 @@
 <br>🎖 2020 - Formation: Adobe Photoshop / Illustrator / Indesign
 <br>🎖 2017 - Specialisation: Supinfo Mobile & Responsive Web Device
 <br>🎖 2017 - Certification: Google Digital Active
-<br>📜 69 LinkedIn Learning Certifications [Cybersecurity (5) GDPR (5) DataScience (16) BigData (7) Blockchain (9) Virtualization (7) IT Infrastructure (3) Machine Learning / AI (3) Management (14)]
-<br>📍 SUPINFO Caen -  🇫🇷 Normandy, France
 
 
 ## 🚀 Experience
@@ -107,16 +105,15 @@
 <details>
 <summary><h2>📊 Languages Stats</h2></summary>
 <div align="center" style="display: flex; flex-direction: row;">
-    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,scss,sass,Pug,Haml,Swift,c%2B%2B,r,swift,dart,Kotlin,Stylus,Less&custom_title=🌐%20Web%20Development&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
-    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,JavaScript,LiveScript,TypeScript,html,css,Swift,c%2B%2B,php,r,swift,dart,Kotlin,CoffeeScript&custom_title=🔧%20Web%20Preprocessors&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
+    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,scss,sass,Pug,Haml,Swift,c%2B%2B,r,swift,dart,Kotlin,Stylus,Less,Java&custom_title=🌐%20Web%20Development&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
+    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,JavaScript,LiveScript,TypeScript,html,css,Swift,c%2B%2B,php,r,swift,dart,Kotlin,CoffeeScript,Java&custom_title=🔧%20Web%20Preprocessors&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,sass,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,LiveScript,CSS,HTML,R,Pug,Stylus,CoffeeScript,Less&custom_title=📱%20Platform%20Development&title_color=3CB371&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
-  <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,LiveScript,CSS,sass,HTML,Pug,C%23,swift,dart,Kotlin,Stylus,CoffeeScript,Less&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&count_private=true&theme=github_dark" />
+  <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,LiveScript,CSS,sass,HTML,Pug,C%23,swift,dart,Kotlin,Stylus,CoffeeScript,Less,Java&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&count_private=true&theme=github_dark" />
 </div>
   
-![](https://komarev.com/ghpvc/?username=Kol-UI&label=+)
 </details>
 
 
@@ -175,7 +172,6 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kol-UI&theme=dark)](https://git.io/streak-stats)
 **Kol-UI/Kol-UI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
