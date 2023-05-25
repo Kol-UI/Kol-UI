@@ -13,10 +13,7 @@
 -->
 
 
-<div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Kol-UI&show_icons=true&theme=github_dark" />
-  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Kol-UI&theme=dark" />
-</div>
+
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kol-UI&show_icons=true&theme=github_dark" />
@@ -26,9 +23,7 @@
 </a>
 -->
 
-<div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
-  <img src="https://www.codewars.com/users/Kol-UI/badges/large" />
-</div>
+
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,10 +37,20 @@
 </a>
 -->
 
+
+
+<!-- Codewars & LeetCode
+<div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Kol-UI&show_icons=true&theme=github_dark" />
+  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Kol-UI&theme=dark" />
+</div>
+<div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
+  <img src="https://www.codewars.com/users/Kol-UI/badges/large" />
+</div>
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
   <img class="img" src="https://leetcard.jacoblin.cool/Kol-UI?ext=activity" />
 </div>
-
+-->
 
 
 
@@ -112,14 +117,15 @@
 <summary><h2>📊 Languages Stats</h2></summary>
 <div align="center" style="display: flex; flex-direction: row;">
     <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,scss,sass,Pug,Haml,Swift,c%2B%2B,r,swift,dart,Kotlin,Stylus,Less,Java&custom_title=🌐%20Web%20Development&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
-    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,JavaScript,LiveScript,TypeScript,html,css,Swift,c%2B%2B,php,r,swift,dart,Kotlin,CoffeeScript,Java&custom_title=🔧%20Web%20Preprocessors&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
+    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,JavaScript,LiveScript,TypeScript,html,css,Swift,c%2B%2B,php,r,swift,dart,Kotlin,CoffeeScript,Java,Vue&custom_title=🔧%20Web%20Preprocessors&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
-   <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,sass,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,LiveScript,CSS,HTML,R,Pug,Stylus,CoffeeScript,Less&custom_title=📱%20Platform%20Development&title_color=3CB371&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
-  <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,LiveScript,CSS,sass,HTML,Pug,C%23,swift,dart,Kotlin,Stylus,CoffeeScript,Less,Java&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&count_private=true&theme=github_dark" />
+   <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C,SCSS,sass,Haml,Python,c%2B%2B,php,TypeScript,JavaScript,LiveScript,CSS,HTML,R,Pug,Stylus,CoffeeScript,Less,Vue&custom_title=📱%20Platform%20Development&title_color=3CB371&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
+  <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,SCSS,Haml,php,TypeScript,JavaScript,LiveScript,CSS,sass,HTML,Pug,C%23,swift,dart,Kotlin,Stylus,CoffeeScript,Less,Java,Vue&custom_title=🖥️%20Other%20Languages&layout=compact&title_color=DC143C&border_color=A9A9A9&count_private=true&theme=github_dark" />
 </div>
 
+  <!--
 <div align="center" style="display: flex; flex-direction: row;">
  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kol-UI&theme=github_dark" />
  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kol-UI&theme=github_dark" />
@@ -131,6 +137,7 @@
   <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kol-UI&theme=github_dark" />
   <img class="img" src="https://github-profile-trophy.vercel.app/?username=Kol-UI&theme=discord&no-bg=false&no-frame=true&column=4&row=1" />
 </div>
+-->
   
 </details>
 
