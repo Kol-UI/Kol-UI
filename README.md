@@ -116,8 +116,8 @@
 <details>
 <summary><h2>📊 Languages Stats</h2></summary>
 <div align="center" style="display: flex; flex-direction: row;">
-    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,scss,sass,Pug,Haml,Swift,c%2B%2B,r,swift,dart,Kotlin,Stylus,Less,Java&custom_title=🌐%20Web%20Development&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
-    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,JavaScript,LiveScript,TypeScript,html,css,Swift,c%2B%2B,php,r,swift,dart,Kotlin,CoffeeScript,Java,Vue&custom_title=🔧%20Web%20Preprocessors&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
+    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,scss,sass,Pug,Haml,Swift,c%2B%2B,r,swift,dart,Kotlin,Stylus,Less,Java,Vue&custom_title=🌐%20Web%20Development&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
+    <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile,C%23,C,python,JavaScript,LiveScript,TypeScript,html,css,Swift,c%2B%2B,php,r,swift,dart,Kotlin,CoffeeScript,Java&custom_title=🔧Web%20Frameworks%20/%20Preprocessors&title_color=1E90FF&layout=compact&border_color=A9A9A9&count_private=true&theme=github_dark" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
