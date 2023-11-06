@@ -1,7 +1,7 @@
 
 <div align="center" style="display: flex; flex-direction: row; vertical-align: middle;">
   <img class="img" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kol-ui&langs_count=10&hide=cmake,makefile&layout=compact&custom_title=📊%20Global%20Most%20Used%20Languages&title_color=FFD700&border_color=A9A9A9&count_private=true&theme=github_dark" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kol&custom_title=⏳Wakatime%20Stats&range=all_time&layout=compact&theme=github_dark" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kol&custom_title=⏳Wakatime%20Stats%20(Free%20Time)&range=all_time&layout=compact&theme=github_dark" />
 </div>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
