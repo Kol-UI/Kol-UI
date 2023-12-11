@@ -67,7 +67,8 @@
 
 ## 🚀 Experience
 - 👨‍💻 Cross Mobile Developer
-<br>📆 2021 - present   
+<br>📆 2023 - Present (MAUI + Blazor)
+<br>📆 2021 - 2023 (Xamarin Forms)
 <div class="row">
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
