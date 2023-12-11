@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div><br>
 
-- 👨‍💻 Front Web Developer
+- 👨‍💻 Web Developer
 <br>📆 2020
 <div class="row">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -84,14 +84,7 @@
   <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
 </div><br>
 
-- 👨‍💻 Community Manager
-<br>📆 2019
-<div class="row">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
-</div><br>
-
-- 👨‍💻 Front Web Developer & Digital Trainer
+- 👨‍💻 Web Developer
 <br>📆 2018 - 2021
 <div class="row">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -99,7 +92,7 @@
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 </div><br>
 
-- 👨‍💻 Front Web Developer
+- 👨‍💻 Web Developer
 <br>📆 2017
 <div class="row">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
