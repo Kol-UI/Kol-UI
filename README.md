@@ -150,8 +150,7 @@
 |🤖|[Archive.java](https://github.com/Kol-UI/Archive.java)| Java CodeTemplates |**⚪ Programming**|
 |📱|[Archive.dart](https://github.com/Kol-UI/ArchiveDartFlutter)| Learning Flutter/Dart for Cross Platform Mobile App|**🟢 Mobile Development**|
 |🟣|[Archive.kt](https://github.com/Kol-UI/ArchiveKotlin)| Learning Kotlin for Cross Platform Mobile App|**🟢 Mobile Development**|
-|🍏|[Archive.swift](https://github.com/Kol-UI/ArchiveSwiftUI)| SwiftUI Courses|**🟡 Apple Development**|
-|🦅|[Swift Projects](https://github.com/Kol-UI/SwiftCommandProject)| Swift Courses (in Console)|**🟡 Apple Development**|
+|🍏|[Archive.swift](https://github.com/Kol-UI/ArchiveSwiftUI)| Swift & SwiftUI Courses|**🟡 Apple Development**|
 |🏷️|[Archive.xaml](https://github.com/Kol-UI/ArchiveLabsXAML)| WPF - UWP - Xamarin Labs|**🟠 Windows Development**|
 |🦾|[Archive.cs](https://github.com/Kol-UI/CSharpArchive)| C# .NET Courses & Projects|**🟠 Windows Development**|
 |⚙️|[Archive.c](https://github.com/Kol-UI/ArchiveC)| C Courses & Projects|**⚪ Programming**|
